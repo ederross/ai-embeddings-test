@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.5",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@types/uuid": "^9.0.2",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "form-data": "^4.0.0",
+    "langchain": "^0.0.119",
+    "redis": "^4.6.7",
+    "uuid": "^9.0.0"
+  }
+}

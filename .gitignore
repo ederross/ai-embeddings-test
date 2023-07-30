@@ -1,0 +1,36 @@
+# Arquivos de build e dependências
+node_modules/
+build/
+dist/
+yarn-error.log
+npm-debug.log
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de log
+logs/
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Cache e arquivos gerados
+.cache/
+public/
+*.html
+*.css
+*.js
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Outros arquivos e pastas que deseja ignorar
